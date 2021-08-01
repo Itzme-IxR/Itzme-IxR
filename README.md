@@ -1,16 +1,32 @@
-### Hi there 👋
+<p align="center">
+<img src="https://media4.giphy.com/media/jt7bAtEijhurm/giphy.gif" alt="GIF" width="480" height="480"/>
+</p>
+<p align="center">
+<a href="#"><img title="Itzme-IxR" src="https://img.shields.io/badge/Itzme-IxR-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/Itzme-IxR"><img title="Author" src="https://img.shields.io/badge/Author-Arra X Ichi-orange.svg?style=for-the-badge&logo=github"></a>
+</p>
 
-<!--
-**Itzme-IxR/Itzme-IxR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```js
+const time = require('times') 
+const age = New time.start("Heaven")
+let memories = (age) => {
+  return {
+    thisProject: {`
+              Thanks: "R", 
+              next: "Hope we can update this project for next time:)"
+            `}
+         }
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## In Memorial
+* [`RARA FITIYANI`]
+
+
+## Last
+
+* [`YOUR IMPERFECTION`]
