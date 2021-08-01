@@ -24,7 +24,7 @@ let memories = (age) => {
 
 
 ## In Memorial
-* [`RARA FITIYANI`]
+* [`RARA FITRIYANI`]
 
 
 ## Last
